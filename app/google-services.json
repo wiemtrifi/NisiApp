@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6742122919",
+    "firebase_url": "https://rvmproject-5057e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "rvmproject-5057e",
+    "storage_bucket": "rvmproject-5057e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6742122919:android:edf16edc46082e53e05682",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6742122919-1895vdboeu2h3iuglcdbarijgf8rckne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVqIsQZLuaREi8HVLoPK0BfH1m_PNmyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6742122919-1895vdboeu2h3iuglcdbarijgf8rckne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
